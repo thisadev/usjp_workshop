@@ -1,0 +1,77 @@
+---
+title: "From Start to Finish: Streamlining Your Academic Research with Free Software"
+author: "Boffin Institute of Data Science"
+format: 
+  revealjs:
+    transition: slide
+    background-transition: fade
+    navigation-mode: vertical
+    controls-layout: bottom-right
+    controls-tutorial: true
+    slide-number: true
+    footer: "© Boffin Institute of Data Science"
+    incremental: true
+    theme: default
+    smaller: true
+    scrollable: true
+    logo: https://drive.google.com/uc?export=view&id=1KW0AfR22X3pNnQgedUyJiMQI1dA4JRkr
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+editor: visual
+execute: 
+  freeze: true
+date: 2023-03-21
+date-format: long
+title-slide-attributes: 
+  data-background-image: https://drive.google.com/uc?export=view&id=1KW0AfR22X3pNnQgedUyJiMQI1dA4JRkr
+  data-background-size: 15%
+  data-background-position: 2% 2%
+  data-background-color: "#002952"
+---
+
+## Research Life Cycle
+
+![](https://researchsupport.harvard.edu/sites/hwpi.harvard.edu/files/styles/os_files_medium/public/researchsupport/files/rdm_lifecycle.png?m=1601047127&itok=sbnnkPnf){fig-align="center" width="275"}
+
+<center>*Research Data Lifecycle by [LMA Research Data Management Working Group](https://datamanagement.hms.harvard.edu/)*</center>
+
+## Plan & Design
+
+## Collect & Create
+
+-   Integration and organisation of data sets and collection process require enable access to multiple data sources.
+
+    | Primary Data Sources | Secondary Data Sources | Big Data Sources  |
+    |----------------------|------------------------|-------------------|
+    | Text delimited files | RDBMS                  | GIS               |
+    | Excel spreadsheets   | API                    | Sensor-based data |
+    | Google sheets        | No-SQL databases       | Websites          |
+
+-   <div>
+
+    ![](https://solutions.posit.co/connections/db/r-packages/odbc/connection_chain.png)
+
+    </div>
+
+## Analyse & Collaborate
+
+-   Analysing research data may require simple descriptive statistics, diagnostic analytics, predictive analytics to prescriptive analytics. You need a rich family of packages and functions to run these different analytics.
+
+-   Further, you may need to functionalities to collaborate with your team.
+
+-   <center>![](https://pbs.twimg.com/media/Ef1Oac7WAAImCos.jpg){width="400"}</center>
+
+## Store & Manage
+
+## Evaluate & Archive
+
+## Share & Disseminate
+
+## Access & Reuse
+
+## Questions & Answers {background-color="#002952"}
+
+If you need any clarifications contact me on [thisaraw\@boffin.lk](mailto:thisaraw@boffin.lk).
+
+![](https://boffin.edu.lk/wp-content/uploads/2022/12/google_logo_2.png){fig-align="center"}
